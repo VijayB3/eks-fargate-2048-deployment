@@ -22,7 +22,7 @@ Kubernetes Service (ClusterIP)
 ↓  
 Pods (Running on AWS Fargate)
 
----
+----
 
 ## 🛠 Tools Used
 
