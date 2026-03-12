@@ -33,7 +33,7 @@ Pods (Running on AWS Fargate)
 - eksctl
 - Amazon EKS
 - AWS Fargate
-- AWS Load Balancer Controller
+- AWS Load Balancer Controller.
 
 ---
 
