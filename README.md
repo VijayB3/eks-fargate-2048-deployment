@@ -10,7 +10,7 @@ This project showcases production-style Kubernetes deployment using serverless c
 
 ---
 
-## 🏗 Architecture
+## 🏗 Architecture.
 
 Internet  
 ↓  
