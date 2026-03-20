@@ -80,7 +80,7 @@ yamls/
 
 ---
 
-## 📸 Screenshots
+## 📸 Screenshots.
 
 ### 1️⃣ EKS Cluster Active
 ![EKS Cluster](screenshots/1-cluster.png)
