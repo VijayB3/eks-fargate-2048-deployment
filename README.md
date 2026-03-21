@@ -61,7 +61,7 @@ eksctl create fargateprofile \
   --namespace game-2048
 ```
 
-### 4️⃣ Applied Kubernetes Manifests
+### 4️⃣ Applied Kubernetes Manifests.
 ```
 kubectl apply -f yamls/
 ```
