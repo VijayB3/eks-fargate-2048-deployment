@@ -44,7 +44,7 @@ Pods (Running on AWS Fargate)
 eksctl create cluster --name Practice-cluster --region us-east-1 --fargate
 ```
 
-### 2️⃣ Associated IAM OIDC Provider (IRSA)
+### 2️⃣ Associated IAM OIDC Provider (IRSA).
 ```
 eksctl utils associate-iam-oidc-provider \
   --cluster Practice-cluster \
