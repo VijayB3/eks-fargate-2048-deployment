@@ -24,7 +24,7 @@ Pods (Running on AWS Fargate)
 
 ----
 
-## 🛠 Tools Used
+## 🛠 Tools Used.
 
  
 
