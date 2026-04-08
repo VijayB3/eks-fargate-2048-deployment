@@ -142,7 +142,7 @@ This project demonstrates practical DevOps skills in:
 
 ---
 
-## 👨‍💻 Author
+## 👨‍💻 Author.
 
 Vijay B.
 DevOps Engineer | AWS & Kubernetes
