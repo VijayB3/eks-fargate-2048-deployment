@@ -37,7 +37,7 @@ Pods (Running on AWS Fargate)
 
 ---
 
-## ⚙️ Deployment Steps.
+## ⚙️ Deployment Steps
 
 ### 1️⃣ Created EKS Cluster
 ```
