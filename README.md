@@ -1,4 +1,4 @@
-# 🚀 EKS Fargate Deployment – 2048 Game Application.
+# 🚀 EKS Fargate Deployment – 2048 Game Application
 
 ## 📌 Project Overview
 
